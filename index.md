@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my GitHub"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hey, welcome!
+I'm just testing out this repo xD
+
+- [ ] This should show an empty Checkbox
+- [x]  This should show a checked box
